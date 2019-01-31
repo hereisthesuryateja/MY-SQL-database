@@ -11,3 +11,5 @@ insert into persons values(4,'edara','madhavi','US','LR')
 
 
 select * from persons where PersonID=4
+
+select * from persons where PersonID=4
