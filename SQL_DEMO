@@ -7,7 +7,7 @@ CREATE TABLE Persons (
 );
 
 insert into persons values(1,'machavarapu','surya','india','hyd')
-insert into persons values(3,'edara','madhavi','US','LR')
+insert into persons values(2,'edara','madhavi','US','LR')
 
 
 select * from persons where PersonID=2
