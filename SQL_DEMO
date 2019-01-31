@@ -6,4 +6,8 @@ CREATE TABLE Persons (
     City varchar(255) 
 );
 
-select * from persons
+insert into persons values(1,'machavarapu','surya','india','hyd')
+insert into persons values(3,'edara','madhavi','US','LR')
+
+
+select * from persons where PersonID=2
