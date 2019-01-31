@@ -11,3 +11,7 @@ insert into persons values(3,'edara','madhavi','US','LR')
 
 
 select * from persons where PersonID=2
+
+select * from persons where PersonID=3
+
+
